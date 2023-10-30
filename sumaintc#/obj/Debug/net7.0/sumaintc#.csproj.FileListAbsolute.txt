@@ -1,0 +1,14 @@
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\sumaintc#\bin\Debug\net7.0\sumaintc#.exe
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\sumaintc#\bin\Debug\net7.0\sumaintc#.deps.json
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\sumaintc#\bin\Debug\net7.0\sumaintc#.runtimeconfig.json
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\sumaintc#\bin\Debug\net7.0\sumaintc#.dll
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\sumaintc#\bin\Debug\net7.0\sumaintc#.pdb
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\sumaintc#\obj\Debug\net7.0\sumaintc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\sumaintc#\obj\Debug\net7.0\sumaintc#.AssemblyInfoInputs.cache
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\sumaintc#\obj\Debug\net7.0\sumaintc#.AssemblyInfo.cs
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\sumaintc#\obj\Debug\net7.0\sumaintc#.csproj.CoreCompileInputs.cache
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\sumaintc#\obj\Debug\net7.0\sumaintc#.dll
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\sumaintc#\obj\Debug\net7.0\refint\sumaintc#.dll
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\sumaintc#\obj\Debug\net7.0\sumaintc#.pdb
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\sumaintc#\obj\Debug\net7.0\sumaintc#.genruntimeconfig.cache
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\sumaintc#\obj\Debug\net7.0\ref\sumaintc#.dll
